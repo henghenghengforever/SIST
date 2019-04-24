@@ -2,7 +2,7 @@
 #version:1.0
 #Author:hengheng
 #date:20190401
-p = 6.38e-06; #the period of grating
+p = 4; #the period of grating
 Duty_cycle = 0.5; #the Duty cycle of grating
 z_min = 0;
 z_max = 0.1e-6;
